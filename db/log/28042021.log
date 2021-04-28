@@ -50170,3 +50170,87 @@ Apr 28 2021 13:34:01 -1001: interface_writer no user interface found on /root/sd
 Apr 28 2021 13:34:04 -1007: enp1s0.sh interface detected (enp1s0)
 Apr 28 2021 13:34:04 -1007: enp2s0.sh interface detected (enp2s0)
 Apr 28 2021 13:34:04 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:34:07 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:34:07 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:34:07 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:34:10 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:34:10 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:34:10 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:34:13 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:34:13 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:34:13 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:34:16 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:34:16 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:34:16 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:34:19 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:34:19 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:34:19 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:34:22 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:34:22 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:34:22 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:34:25 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:34:25 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:34:25 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:34:28 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:34:28 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:34:28 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:34:30 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:34:31 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:34:31 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:34:33 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:34:33 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:34:34 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:34:36 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:34:36 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:34:37 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:34:39 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:34:39 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:34:39 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:34:42 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:34:42 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:34:42 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:34:45 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:34:45 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:34:45 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:34:48 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:34:48 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:34:48 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:34:51 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:34:51 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:34:51 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:34:54 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:34:54 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:34:54 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:34:57 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:34:57 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:34:57 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:35:00 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:35:00 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:35:00 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:35:03 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:35:03 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:35:03 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:35:06 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:35:06 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:35:06 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:35:09 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:35:09 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:35:09 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:35:12 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:35:12 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:35:12 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:35:14 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:35:14 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:35:15 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:35:17 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:35:17 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:35:18 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:35:20 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:35:20 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:35:20 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:35:23 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:35:23 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:35:23 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
+Apr 28 2021 13:35:26 -1007: enp1s0.sh interface detected (enp1s0)
+Apr 28 2021 13:35:26 -1007: enp2s0.sh interface detected (enp2s0)
+Apr 28 2021 13:35:26 -1001: interface_writer no user interface found on /root/sdwan/db/usrconf
