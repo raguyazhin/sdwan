@@ -1,9 +1,0 @@
-interfacename=enp1s0
-interfacetype=WAN
-iptype=STATIC
-ipaddress=103.60.139.21
-subnetmask=255.255.255.224
-gateway=103.60.139.1
-dns_1=172.20.10.52
-dns_2=8.8.8.8
-network=103.60.139.0/27
