@@ -1,0 +1,6 @@
+router eigrp 65530
+eigrp router-id 10.10.20.1
+neighbor 10.10.10.2
+network 172.20.0.0/20
+network 172.20.1.1/24
+variance 2

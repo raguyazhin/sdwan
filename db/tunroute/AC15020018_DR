@@ -1,0 +1,2 @@
+172.21.2.0/24|ip route del 172.21.2.0/24 scope global nexthop via 10.9.0.101 dev snmsecondary weight 1 
+

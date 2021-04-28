@@ -1,0 +1,11 @@
+displayname=Inside
+interfacename=enp2s0
+interfacetype=LAN
+iptype=STATIC
+ipaddress=172.20.9.76
+subnetmask=255.255.240.0
+gateway=172.20.1.126
+dns_1=172.20.10.53
+dns_2=8.8.8.8
+status=1
+enable=YES

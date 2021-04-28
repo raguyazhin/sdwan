@@ -1,0 +1,11 @@
+displayname=wlx485d602e446f
+interfacename=wlx485d602e446f
+interfacetype=WAN
+iptype=DHCP
+ipaddress=0.0.0.0
+subnetmask=0.0.0.0
+gateway=0.0.0.0
+dns_1=8.8.8.8
+dns_2=8.8.8.8
+status=0
+enable=YES

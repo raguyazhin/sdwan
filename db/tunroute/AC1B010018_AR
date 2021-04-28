@@ -1,0 +1,2 @@
+172.27.1.0/24|ip route add 172.27.1.0/24 scope global nexthop via 10.8.0.102 dev snmprimary weight 1 
+

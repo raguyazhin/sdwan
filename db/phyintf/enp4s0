@@ -1,0 +1,11 @@
+displayname=enp4s0
+interfacename=enp4s0
+interfacetype=LAN
+iptype=STATIC
+ipaddress=0.0.0.0
+subnetmask=0.0.0.0
+gateway=0.0.0.0
+dns_1=8.8.8.8
+dns_2==8.8.8.8
+status=3
+enable=NO

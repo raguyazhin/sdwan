@@ -1,0 +1,9 @@
+interfacename=enp2s0
+interfacetype=WAN
+iptype=STATIC
+ipaddress=172.20.9.76
+subnetmask=255.255.240.0
+gateway=172.20.1.126
+dns_1=172.20.10.53
+dns_2=8.8.8.8
+network=172.20.0.0/20
