@@ -19,4 +19,3 @@ if [ -z ${chkintf} ]; then
 	echo -e "${currintfs}"  &> ${INTFFILEPATH}
 
 fi
-
